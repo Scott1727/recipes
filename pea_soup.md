@@ -3,8 +3,8 @@
 This md document was created using *markdown* in the **nano** text editor
 
 ## Ingredients
-- peas
-- potatoes
-- onions
+- peas		50p
+- potatoes	75p
+- onions	30p
 
 ## Instructions
